@@ -1,0 +1,20 @@
+body {
+  background-color: beige;
+  color: #24240a;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 50px;
+}
+
+.heading {
+  font-family: 'Lucida Console', monospace;
+}
+
+.bubble {
+  background-color: hsl(180, 57%, 91%);
+  border-color: hsl(60, 57%, 9%);
+  border-radius: 10px;
+  border-style: solid;
+  border-width: thin;
+  font-size: 20px;
+  padding: 15px;
+}
